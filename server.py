@@ -1,3 +1,4 @@
+# https://gist.github.com/bsergean/bad452fa543ec7df6b7fd496696b2cd8
 import asyncio
 import logging.handlers
 import os
@@ -9,7 +10,7 @@ import websockets
 from websockets import WebSocketServerProtocol
 
 # Server settings
-HOST = "localhost"
+HOST = "0.0.0.0"
 PORT = "8675"
 
 # Client settings
