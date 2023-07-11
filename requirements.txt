@@ -1,0 +1,6 @@
+uvloop==0.17.0; platform_system != "Windows"
+colorama==0.4.6
+coloredlogs==15.0.1
+humanfriendly==10.0
+pyreadline3==3.4.1
+websockets==11.0.3
