@@ -14,7 +14,7 @@ HOST = "0.0.0.0"
 PORT = "8675"
 
 # Client settings
-REMOTE_URL = "wss://websocket-echo.com"
+REMOTE_URL = "wss://ws-feed.exchange.coinbase.com"
 
 
 log = logging.getLogger("main")
